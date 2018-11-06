@@ -1,3 +1,1 @@
-from=git-dev-v1.0 by springcloud config-server
-username=springcloud
-password=123456
+server.port=8888
